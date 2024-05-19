@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\WotoWotoApp\\WotoWotoApp.csproj": {}
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\wotowotoapp\\WotoWotoApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\WotoWotoApp\\WotoWotoApp.csproj": {
+    "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\wotowotoapp\\WotoWotoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\WotoWotoApp\\WotoWotoApp.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\wotowotoapp\\WotoWotoApp.csproj",
         "projectName": "WotoWotoApp",
-        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\WotoWotoApp\\WotoWotoApp.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\wotowotoapp\\WotoWotoApp.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\WotoWotoApp\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\OneDrive\\Desktop\\WotoWoto\\wotowotoapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

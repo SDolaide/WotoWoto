@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\WotoWotoApp.exe
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\appsettings.Development.json
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\appsettings.json
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\WotoWotoApp.dll
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\WotoWotoApp.deps.json
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\WotoWotoApp.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Desktop\WotoWoto\wotowotoapp\pub\WotoWotoApp.pdb
